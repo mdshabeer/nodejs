@@ -18,8 +18,8 @@ function getDynamoDBItem (callback) {
     // Configuring AWS
     AWS.config.update({
         region: 'us-west-1',
-        accessKeyId: 'xxV5AlIW8B4veqwMUoSrAK/LWGhfzFMt6u5Ff/u8q5',
-        secretAccessKey: 'xAKIASURTEXR4QMVR6FJNx'
+        accessKeyId: 'XX',
+        secretAccessKey: 'YY'
         // sessionToken: 'your_session_token' // Uncomment if you're using temporary credentials
     });
 
